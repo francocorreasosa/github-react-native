@@ -1,4 +1,6 @@
 # github-react-native
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/francocorreasosa/github-react-native.svg)](https://greenkeeper.io/)
 This is a simple app that I made in order to learn the basics about react-native.
 
 Inside the app, you can:
